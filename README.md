@@ -1,2 +1,1 @@
-# gal_v1
-# to understand and calculate the ...
+
